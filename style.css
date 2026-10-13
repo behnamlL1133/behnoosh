@@ -950,7 +950,7 @@ header {
 @media (max-width: 768px) {
 
     /* === Header === */
-    .header {
+    header {
         flex-direction: column;
         padding: 15px 20px;
         gap: 12px;
